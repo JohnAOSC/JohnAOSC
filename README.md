@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 
-2. 
+1. 🎉 Merged PR [#1](https://github.com/JohnAOSC/JohnAOSC/pull/1) in [JohnAOSC/JohnAOSC](https://github.com/JohnAOSC/JohnAOSC)
+2. 💪 Opened PR [#1](https://github.com/JohnAOSC/JohnAOSC/pull/1) in [JohnAOSC/JohnAOSC](https://github.com/JohnAOSC/JohnAOSC)
 3. 
 4. 
 5. 
