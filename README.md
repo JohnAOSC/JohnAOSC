@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/JohnAOSC/fedorapostinstall/pull/1) in [JohnAOSC/fedorapostinstall](https://github.com/JohnAOSC/fedorapostinstall)
-2. 🎉 Merged PR [#2](https://github.com/JohnAOSC/JohnAOSC/pull/2) in [JohnAOSC/JohnAOSC](https://github.com/JohnAOSC/JohnAOSC)
-3. 🎉 Merged PR [#1](https://github.com/JohnAOSC/JohnAOSC/pull/1) in [JohnAOSC/JohnAOSC](https://github.com/JohnAOSC/JohnAOSC)
-4. 💪 Opened PR [#1](https://github.com/JohnAOSC/JohnAOSC/pull/1) in [JohnAOSC/JohnAOSC](https://github.com/JohnAOSC/JohnAOSC)
+1. 
+2. 
+3. 
+4. 
 5. 
 <!--END_SECTION:activity-->
 
